@@ -3,7 +3,9 @@
 讀取清單批量下載圖片
 
 ## 使用方式
+```python
 python image_downloader.py -f image.txt -o output [--cookie name=value; name2=value2]
+```
 
 ## 圖片清單格式
 ```
