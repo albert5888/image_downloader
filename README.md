@@ -1,4 +1,4 @@
-# image_download
+# image_downloader
 ## 功能
 讀取清單批量下載圖片
 
